@@ -1,0 +1,9 @@
+1. apakah bisa state karakter player dari idle langsung run ?
+2. apakah bisa state karakter player dari jump ke crunch ?
+3. apakah bisa state crounch dan counchingWalk memiliki kesamaan transisi ?
+
+jawab 
+
+1. Iya
+2. Iya
+3. Iya
