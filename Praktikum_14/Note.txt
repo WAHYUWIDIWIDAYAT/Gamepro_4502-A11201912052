@@ -1,3 +1,3 @@
-Note : 	Sc pertama tidak bisa dibuild ke apk pak , ada kesalahan dalam package vuforia kalo gasalah berminggu minggu cari solusi blum dpt , tapi bisa scan ar dan muncul tampilanya 		pak
+Note : 	Sc pertama tidak bisa dibuild ke apk pak , ada kesalahan dalam package vuforia kalo gasalah berminggu minggu cari solusi blum dpt , tapi bisa scan ar dan muncul tampilanya pak
 	Sc kedua gatau kenapa hasilnya emng gitu apa bukan pak ? padahal dah sama dengan tutorial di pdf
 	
